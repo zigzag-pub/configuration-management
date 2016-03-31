@@ -28,4 +28,4 @@ The build pipeline is setup with the following stages:
   * Prepare
   * Test
   * Staging Deploy
-  * Produciton Deploy
+  * Production Deploy
